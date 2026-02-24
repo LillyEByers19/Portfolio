@@ -1,6 +1,6 @@
 # Lilly Byers – Data Science Portfolio
 
-Hi! I'm Lilly, a Physics and Applied Mathematics senior at Augustana College (GPA: 3.65) with a minor in Data Analytics. I am passionate about using mathematical modeling, statistical analysis, and programming to transform raw data into meaningful insights.
+Hi! I'm Lilly, a Physics and Applied Mathematics senior at Augustana College (GPA: 3.65) with a minor in Data Analytics. I am passionate about using mathematical modeling, statistical analysis, and pr[...]  
 
 This repository showcases selected projects that demonstrate my skills in Python, statistical modeling, data visualization, and computational simulation.
 
@@ -21,6 +21,7 @@ This repository showcases selected projects that demonstrate my skills in Python
 ### 1️⃣ Physics Final Modeling Project – Predictive Modeling
 - Built a model to predict the final position of a projectile, to account for the Coriolis force.
 - Visualized trends and residual analysis using Matplotlib
+- 🖼️ [Presentation Images](./Modeling%20Effect%20of%20Coriolis%20Force%20on%20long%20range%20ballistics%20-%20Luke%5EJ%20Koen%20Lilly/)
 
 **Skills demonstrated:** Python modeling, model adjustments
 
@@ -56,4 +57,3 @@ I am particularly interested in roles where I can apply statistical modeling and
 🔗 LinkedIn: www.linkedin.com/in/lilly-byers-9b602b383  
 
 Feel free to connect or reach out!
-
