@@ -21,7 +21,9 @@ This repository showcases selected projects that demonstrate my skills in Python
 ### 1️⃣ Physics Final Modeling Project – Predictive Modeling
 - Built a model to predict the final position of a projectile, to account for the Coriolis force.
 - Visualized trends and residual analysis using Matplotlib
-- 🖼️ [Presentation Images](./Modeling%20Effect%20of%20Coriolis%20Force%20on%20long%20range%20ballistics%20-%20Luke%5EJ%20Koen%20Lilly/)
+
+📊 **Project Presentation:**  
+- [View Slides](Modeling%20Effect%20of%20Coriolis%20Force%20on%20long%20range%20ballistics%20presentaion-%20Luke,%20Koen%20Lilly.pptx)
 
 **Skills demonstrated:** Python modeling, model adjustments
 
